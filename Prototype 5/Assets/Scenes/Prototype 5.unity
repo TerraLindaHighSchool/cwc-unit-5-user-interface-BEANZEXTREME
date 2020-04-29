@@ -266,10 +266,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'ooog
+  m_text: 'score
 
 '
-  m_isRightToLeft: 1
+  m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ff9dfb9dcfa9b451da0749c3d2b449a9, type: 2}
   m_sharedMaterial: {fileID: 21956123629259200, guid: ff9dfb9dcfa9b451da0749c3d2b449a9,
     type: 2}
@@ -338,7 +338,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 173962514}
-    characterCount: 5
+    characterCount: 6
     spriteCount: 0
     spaceCount: 1
     wordCount: 1
@@ -502,6 +502,7 @@ MonoBehaviour:
   - {fileID: 7560105072910153115, guid: 0fe586766efa6974c99a60a21f182889, type: 3}
   - {fileID: 8329661068046724004, guid: 22fa8187e63109949802be583f987e3a, type: 3}
   - {fileID: 1334483645040577020, guid: 53f52ef1466defb4fa10b3303616cb57, type: 3}
+  scoreText: {fileID: 173962514}
 --- !u!4 &262364730
 Transform:
   m_ObjectHideFlags: 0
